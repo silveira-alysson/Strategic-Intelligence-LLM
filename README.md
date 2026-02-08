@@ -21,7 +21,7 @@ This research introduces **DECODA**, a semantic framework that automates this an
 ![Proposed DECODA Framework](docs/images/figure3_framework.png)
 *Figure 3: The DECODA framework architecture combining Deep Active Learning, Text Augmentation, and AWCL.*
 
-![Contrastive Loss Comparison](docs/images/figure4_loss.png)
+![Contrastive Loss Comparison](docs/images/figure4_comparison.jpg)
 *Figure 4: Comparison between traditional contrastive loss and the proposed Augmentation-based Weighted Contrastive Loss (AWCL).*
 
 ## Results
