@@ -19,9 +19,11 @@ This research introduces **DECODA**, a semantic framework that automates this an
 * **Weighted Contrastive Learning (AWCL):** A novel fine-tuning technique that helps the model distinguish between sentences with similar phrasing but opposite meanings, such as opening versus closing a branch.
 
 ![Proposed DECODA Framework](docs/images/figure3_framework.png)
+
 *Figure 3: The DECODA framework architecture combining Deep Active Learning, Text Augmentation, and AWCL.*
 
-![Contrastive Loss Comparison](docs/images/figure4_comparison.jpg)
+![Contrastive Loss Comparison](docs/images/figure4_comparisonV2.jpg)
+
 *Figure 4: Comparison between traditional contrastive loss and the proposed Augmentation-based Weighted Contrastive Loss (AWCL).*
 
 ## Results
