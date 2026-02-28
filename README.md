@@ -12,7 +12,7 @@ This research introduces **DECODA**, a semantic framework that automates this an
 
 ## Methodology
 
-[cite_start]The study analyzed a massive dataset of **10,480 10-K reports** from **1,048 manufacturing firms** over a ten-year period, sourced directly from the SEC's EDGAR database. The DECODA framework streamlines the analysis through a three-stage process:
+The study analyzed a massive dataset of **10,480 10-K reports** from **1,048 manufacturing firms** over a ten-year period, sourced directly from the SEC's EDGAR database. The DECODA framework streamlines the analysis through a three-stage process:
 
 * **Deep Active Learning:** A "human-in-the-loop" component that identifies the most informative sentences for expert verification, minimizing the manual effort required.
 * **Text Augmentation:** Using Large Language Models (LLMs) to synthetically expand the training data, ensuring the model understands various ways a strategic point can be phrased.
